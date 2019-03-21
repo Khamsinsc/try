@@ -1,0 +1,10 @@
+*{
+  padding:0;
+  margin:20px;
+  border: 1px solid silver;
+  border-radius: 8px;
+}
+
+span:hover{
+  color: red;
+}
